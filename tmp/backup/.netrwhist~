@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/sam/Code'
+let g:netrw_dirhist_2='/home/sam/Code/scrape_news'
+let g:netrw_dirhist_3='/home/sam/Code/scrape_torrent'
+let g:netrw_dirhist_4='/home/sam/Code/scrape_torrent/scrape_torrent'
+let g:netrw_dirhist_5='/home/sam/Code/scrape_torrent'
+let g:netrw_dirhist_6='/home/sam/Code/scrape_torrent/scrape_torrent'
+let g:netrw_dirhist_7='/home/sam/Code/scrape_torrent'

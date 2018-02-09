@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/sam/Code/deniable'
+let g:netrw_dirhist_2='/home/sam/Code/deniable/src'
+let g:netrw_dirhist_3='/home/sam/Code/deniable'
+let g:netrw_dirhist_4='/home/sam/Code/deniable/src'
+let g:netrw_dirhist_5='/home/sam/Code/bitbot/api'
+let g:netrw_dirhist_6='/home/sam/Code/ffs'
+let g:netrw_dirhist_7='/home/sam/Code/pass'
+let g:netrw_dirhist_8='/home/sam'
+let g:netrw_dirhist_9='/home/sam/Code/pass'
